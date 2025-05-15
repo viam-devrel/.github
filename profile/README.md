@@ -12,4 +12,4 @@
 To get involved with our community, feel free to drop by and say hello in our free [Community Discord](http://discord.gg/viam). You can also get breaking news about new features and activities [on Twitter](https://x.com/viamrobotics).
 
 ### Documentation and tutorials
-Head over to our [documentation](https://docs.viam.com/), visit our [blog](https://www.viam.com/blog), and check out our [YouTube channel](https://www.youtube.com/@viamrobotics) for interesting tutorials, development stories, and platform updates.
+Head over to our [documentation](https://docs.viam.com/), visit our [blog](https://www.viam.com/blog), and check out our [hands-on codelabs](https://codelabs.viam.com/) or [YouTube channel](https://www.youtube.com/@viamrobotics) for interesting tutorials, development stories, and platform updates.
