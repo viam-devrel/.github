@@ -4,7 +4,7 @@
 [![Discourse](https://img.shields.io/badge/Discord-%40viam-black)](http://discord.gg/viam)
 
 ## Welcome to Viam! 
-[Viam](https://www.viam.com/) is an open source software platform that’s modular, pluggable, and designed to work with any hardware with sensing, compute, and actuation.
+[Viam](https://www.viam.com/) is the harness for physical AI. Develop robotics applications with any agent, model, and hardware. Deploy and operate them with Viam.
 
 ![dmlhbS1saW5rZWRpbi1iYW5uZXJzLWVtcGxveWVlLWRlc2t0b3AgKDMpLnBuZw==](https://github.com/user-attachments/assets/68c24b9c-efee-4ba4-bb7a-85b54393fbb9)
 
